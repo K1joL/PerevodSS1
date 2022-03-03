@@ -87,7 +87,6 @@ int main()
 	while (true)
 	{
 		int a = 0, sv, si;
-		int otv;
 		
 		cout << "\nИсходное число записано в системе счисления: ";
 		cin >> si;
